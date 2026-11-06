@@ -1,6 +1,6 @@
 # Merhaba, ben Efe Yücel 👋
 
-Ankara'da yaşayan bir mobil uygulama ve web geliştiricisiyim. Çankaya Üniversitesi'nde Bilgisayar Programcılığı okuyorum ve YCL Games altında kendi ürünlerimi geliştiriyorum.
+Ankara'da yaşayan bir mobil uygulama ve web geliştiricisiyim. Çankaya Üniversitesi'nde Bilgisayar Programcılığı okuyorum. Kuzenimle birlikte oyun stüdyomuz YCL Games'i kurdum ve mobil ile web projeleri geliştiriyorum.
 
 ## Projeler
 
